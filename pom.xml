@@ -79,7 +79,7 @@
         <version.plugin.buildhelp>1.12</version.plugin.buildhelp>
         <version.plugin.jar>3.0.2</version.plugin.jar>
         <version.plugin.site>3.8.2</version.plugin.site>
-        <version.plugin.exec>1.6.0</version.plugin.exec>
+        <version.plugin.exec>3.0.0</version.plugin.exec>
         <version.plugin.plugin>3.6.0</version.plugin.plugin>
         <version.plugin.release>2.5.3</version.plugin.release>
         <version.plugin.resources>3.0.2</version.plugin.resources>
